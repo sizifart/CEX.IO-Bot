@@ -30,9 +30,6 @@
 | **REF_ID**               | Argument from referral bot link after ?start={argument}                                      |
 | **USE_PROXY_FROM_FILE**  | Whether to use a proxy from the bot/config/proxies.txt file (True / False)                   |
 
-## Quick Start 📚
-
-To install libraries and run bot - [Auto Install/Run](#Auto-Install/Run)
 
 ## Prerequisites
 Before you begin, make sure you have the following installed:
