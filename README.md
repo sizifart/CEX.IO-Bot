@@ -7,14 +7,14 @@
 ## Features  
 | Feature                                                     | Supported  |
 |---------------------------------------------------------------|:----------------:|
-| Multithreading                                                |        ✅        |
-| Proxy binding to session                                      |        ✅        |
-| Auto-Click coin                                               |        ✅        |
-| Auto-Start abd Auto-Claim farm                                |        ✅        |
+| Auto-Click coin, Claim and convert                            |        ✅        |
+| Auto-start, auto-check and auto-claim tasks                   |        ✅        |
 | Specify number of taps                                        |        ✅        |
 | Auto-claim squad reward                                       |        ✅        |
-| Auto-start, auto-check and auto-claim tasks                   |        ✅        |
-| Auto referral                                                 |        ✅        |
+| Auto-Start abd Auto-Claim farm                                |        ✅        |
+| Auto-Buy Upgrade card                                         |        ✅        |
+| Proxy binding to session                                      |        ✅        |
+| Multithreading                                                |        ✅        |
 | Support for tdata / pyrogram .session / telethon .session     |        ✅        |
 
 
