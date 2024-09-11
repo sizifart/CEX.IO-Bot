@@ -7,28 +7,31 @@
 ## Features  
 | Feature                                                     | Supported  |
 |---------------------------------------------------------------|:----------------:|
+| Multithreading                                                |        ✅        |
+| Proxy binding to session                                      |        ✅        |
 | Auto-Click coin, Claim and convert                            |        ✅        |
-| Auto-start, auto-check and auto-claim tasks                   |        ✅        |
 | Specify number of taps                                        |        ✅        |
 | Auto-claim squad reward                                       |        ✅        |
-| Auto-Start abd Auto-Claim farm                                |        ✅        |
+| Auto-start, auto-check and auto-claim tasks                   |        ✅        |
 | Auto-Buy Upgrade card                                         |        ✅        |
-| Proxy binding to session                                      |        ✅        |
-| Multithreading                                                |        ✅        |
+| Auto-REF                                                      |        ✅        |
 | Support for tdata / pyrogram .session / telethon .session     |        ✅        |
 
 
-## Settings
+## [Settings](https://github.com/sizifart/CEX.IO-Bot/blob/main/.env-example)
 | Settings | Description |
-|--------------------------|:---------------------------------------------------------------------------------------------:|
-| **API_ID / API_HASH**    | Platform data from which to run the Telegram session (default - android)                     |
-| **FARM_MINING_ERA**      | Whether to automatically start the farm (e.g. True)                                          |                                
-| **TAPS**                 | Whether to auto-click the coin (e.g. True)                                                   |
-| **TAPS_AMOUNT**          | How many taps will be clicked (e.g. [100, 1000])                                             |
-| **CLAIM_SQUAD_REWARD**   | Auto claim squad rewards (e.g. True)                                                         |
-| **CLAIM_TASKS**          | Auto tasks (one time) ((eg. True))                                                           |
-| **REF_ID**               | Argument from referral bot link after ?start={argument}                                      |
-| **USE_PROXY_FROM_FILE**  | Whether to use a proxy from the bot/config/proxies.txt file (True / False)                   |
+|----------------------------|:-------------------------------------------------------------------------------------------------------------:|
+| **API_ID / API_HASH**      | Platform data from which to run the Telegram session (default - android)                                      |
+| **REF_LINK**               | auto register with your ref link (default: my ref link)                                                       |
+| **AUTO_TAP**               | Automatically tapping (e.g. True) IMPORTANT please dont open app while you are running bot with this option and just turn on this option if your wifi is good |                                
+| **RANDOM_TAPS_COUNT**      | How many taps will be clicked (e.g. [25, 75])                                                                 |
+| **SLEEP_BETWEEN_TAPS**     | Random delay between taps (e.g. [25, 35])                                                                     |
+| **AUTO_CONVERT**           | Auto convert BTC balance to coin (e.g. True)                                                                  |
+| **MINIMUM_TO_CONVERT**     | Minimum BTC balance to convert (e.g. 0.1)                                                                     |
+| **AUTO_BUY_UPGRADE**       | Auto upgrade the most profitable card (eg. True)                                                              |
+| **AUTO_TASK**              | Auto tasks (one time) ((eg. True))                                                                            |
+| **AUTO_CLAIM_SQUAD_BONUS** | Auto claim bonus from ref (one time) ((eg. False))                                                            |
+| **USE_PROXY_FROM_FILE**    | Whether to use a proxy from the bot/config/proxies.txt file (True / False)                                    |
 
 
 ## Prerequisites
