@@ -22,7 +22,7 @@ start_text = """
 ███████║██║███████╗    ╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║
 ╚══════╝╚═╝╚══════╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
-CEX.IO BOT V 1.2
+CEX.IO BOT V 2.1
 Prepared and Developed by: F.Davoodi
                                                                    
 Select an action:
