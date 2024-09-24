@@ -33,7 +33,6 @@
 | **AUTO_CLAIM_SQUAD_BONUS** | Auto claim bonus from ref (one time) ((eg. False))                                                            |
 | **USE_PROXY_FROM_FILE**    | Whether to use a proxy from the bot/config/proxies.txt file (True / False)                                    |
 
-
 ## Prerequisites
 Before you begin, make sure you have the following installed:
 - [Python](https://www.python.org/downloads/) **version 3.10**
@@ -45,8 +44,7 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Auto Install/Run
-- Click on Install.bat to automatically install the required dependencies 
-- Then click on START.bat to run the project
+- Click on RUN.bat to automatically install the required dependencies and run the project
 
 ## Menual Install/Run
 1. Install the required dependencies:
@@ -64,7 +62,10 @@ Before you begin, make sure you have the following installed:
 # Telegram Channel
 
 ✅ Channel for information and training on Telegram airdrop bots 🔷 Follow us on Telegram : [SIZIFAIRDROP](https://t.me/sizifairdrop)
-   
+
+# Donate
+Your donations help us continue our work. Thank you for your support! | 💳 [Donate](https://sizvpn.com/donate/)  
+
 # Discussion
 
 If you have an question or something you can ask in here : [F.Davoodi](https://t.me/sizifart)
